@@ -1,0 +1,30 @@
+{
+    "contacts":
+    [
+        {
+            "FullName":"NBA Young-Boy",
+            "ContactNumber":"4165555556",
+            "EmailAddress":"neverbrokeagain@ny.com"
+        },
+        {
+            "FullName":"Lebron James",
+            "ContactNumber":"4168882222",
+            "EmailAddress":"kingjames@fg.com"
+        },
+        {
+            "FullName":"John Wall",
+            "ContactNumber":"4162244881",
+            "EmailAddress":"dapman22@nba.org"
+        },
+        {
+            "FullName":"James Harden",
+            "ContactNumber":"4160901889",
+            "EmailAddress":"freethrows@email.com"
+        },
+        {
+            "FullName":"Danny Green",
+            "ContactNumber":"4160888812",
+            "EmailAddress":"bricksonbricks@example.com"
+        }
+    ]
+}
